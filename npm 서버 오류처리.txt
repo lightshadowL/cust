@@ -1,0 +1,4 @@
+npm run dev 실행시 에러시 조치
+1. 루트 폴더에서 실행
+2. 루트 폴더에서 실행했어도 오류가 발생되면 다음과 같이 처리
+npm i concurrently express --save 설치 후 실행
